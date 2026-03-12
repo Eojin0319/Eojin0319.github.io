@@ -1,0 +1,14 @@
+body {
+	background : #BF5C06;
+	font-family: monospace;
+	line-height: 1.6; 
+}
+
+ul, ol {
+	padding: 10px 30px;
+}
+img{
+	width: 100px;
+	height: 100px;
+}
+
